@@ -1,52 +1,46 @@
 
 {
-  "File": [{
-    "Id": "01",
-    "Category": "exe",
-    "Name": "Pacote Redistribuível 2015, 2017, 2019 e 2022",
-    "Description": "Visual Studio 2015, 2017, 2019 e 2022",
-    "Link": "https://aka.ms/vs/17/release/vc_redist.x86.exe",
-    "LinkDesc": "Baixar ->Pacote Redistribuível 32 bits"
+  "posts": [{
+    "id":"01",
+    "name": "Pacote Redistribuível 2015, 2017, 2019 e 2022",
+    "description": "Visual Studio 2015, 2017, 2019 e 2022",
+    "link": "https://aka.ms/vs/17/release/vc_redist.x86.exe",
+    "linkDesc": "Baixar ->Pacote Redistribuível 32 bits"
   },
   {
-    "Id": "02",
-    "Category": "exe",
-    "Name": "Pacote Redistribuível 2015, 2017, 2019 e 2022",
-    "Description": "Visual Studio 2015, 2017, 2019 e 2022",
-    "Link": "https://aka.ms/vs/17/release/vc_redist.x64.exe",
-    "LinkDesc": "Baixar ->Pacote Redistribuível 64 bits"
+    "id": "02",
+    "name": "Pacote Redistribuível 2015, 2017, 2019 e 2022",
+    "description": "Visual Studio 2015, 2017, 2019 e 2022",
+    "link": "https://aka.ms/vs/17/release/vc_redist.x64.exe",
+    "linkDesc": "Baixar ->Pacote Redistribuível 64 bits"
   },
   {
-    "Id": "03",
-    "Category": "exe",
-    "Name": "Pacote Redistribuível 201332 bitis ",
-    "Description": "Visual Studio 2013 (VC++ 12.0)",
-    "Link": "https://aka.ms/highdpimfc2013x86enu",
-    "LinkDesc": "Baixar ->Pacote Redistribuível 2013 32 bits"
+    "id": "03",
+    "name": "Pacote Redistribuível 201332 bitis ",
+    "description": "Visual Studio 2013 (VC++ 12.0)",
+    "link": "https://aka.ms/highdpimfc2013x86enu",
+    "linkDesc": "Baixar ->Pacote Redistribuível 2013 32 bits"
   },
   {
-    "Id": "04",
-    "Category": "exe",
-    "Name": "Pacote Redistribuível 2013 64bits",
-    "Description": "Visual Studio 2013 (VC++ 12.0)",
-    "Link": "https://aka.ms/highdpimfc2013x64enu",
-    "LinkDesc": "Baixar ->Pacote Redistribuível 2013 64 bits"
+    "id": "04",
+    "name": "Pacote Redistribuível 2013 64bits",
+    "description": "Visual Studio 2013 (VC++ 12.0)",
+    "link": "https://aka.ms/highdpimfc2013x64enu",
+    "linkDesc": "Baixar ->Pacote Redistribuível 2013 64 bits"
   },
   {
-    "Id": "05",
-    "Category": "exe",
-    "Name": "PostgreSQL 10.23",
-    "Description": "Banco de dados homologado para utilizar com Fluent ERP",
-    "Link": "https://portal.conceitho.com/files/postgresql-10.23-x32.exe",
-    "LinkDesc": "Baixar ->PostgreSQL 10.23 [32bits]"
+    "id": "05",
+    "name": "PostgreSQL 10.23",
+    "description": "Banco de dados homologado para utilizar com Fluent ERP",
+    "link": "https://portal.conceitho.com/files/postgresql-10.23-x32.exe",
+    "linkDesc": "Baixar ->PostgreSQL 10.23 [32bits]"
   },
   {
-    "Id": "06",
-    "Category": "exe",
-    "Name": "Office Professional Plus 2019",
-    "Description": "IDE de desenvolvimento personalizada para Conceitho Tecnologia",
-    "Link": "https://portal.conceitho.com/files/SW_DVD5_Office_Professional_Plus_2019_32_BIT_X64_Brazilian_C2R_X21-84618.ISO",
-    "LinkDesc": "Baixar ->Office Professional Plus 2019"
+    "id": "06",
+    "name": "Office Professional Plus 2019",
+    "description": "idE de desenvolvimento personalizada para Conceitho Tecnologia",
+    "link": "https://portal.conceitho.com/files/SW_DVD5_Office_Professional_Plus_2019_32_BIT_X64_Brazilian_C2R_X21-84618.ISO",
+    "linkDesc": "Baixar ->Office Professional Plus 2019"
   }
 ]
 }
