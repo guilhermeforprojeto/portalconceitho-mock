@@ -73,8 +73,8 @@
   {
     "id": "11",
     "name": "VPN Conceitho",
-    "description": "https://portal.conceitho.com/files/VPN_Conceitho_vpnconceitho.ovpn.zip",
-    "link": "orta",
+    "description": "Arquivo de configuração VPN da Conceitho",
+    "link": "https://portal.conceitho.com/files/VPN_Conceitho_vpnconceitho.ovpn.zip",
     "linkDesc": "VPN Conceitho"
   },
   {
