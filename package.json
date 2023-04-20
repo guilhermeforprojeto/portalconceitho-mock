@@ -1,5 +1,5 @@
 {"scripts": {
-  "start": "json-server --watch db.json --port 3210"
+  "start": "json-server --watch filesportal.json --port 3210"
 },
   "dependencies": {
     "json-server": "^0.17.0"
