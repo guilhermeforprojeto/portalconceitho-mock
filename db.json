@@ -1,5 +1,6 @@
 
 {
+    "filesportal": [{
     "_messages": [
         {
             "class": "success",
@@ -26,4 +27,5 @@
         }
     ],
     "hasNext": false
-}
+}]
+    }
