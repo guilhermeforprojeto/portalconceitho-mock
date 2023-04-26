@@ -1,31 +1,228 @@
-
 {
-    "filesportal": [{
-    "_messages": [
-        {
-            "class": "success",
-            "code": "200",
-            "detailedMessage": "found 1 files",
-            "message": "files found"
-        }
-    ],
-    "files": [
-        {
-            "ID": "2462338f-276f-40b7-a6ec-02c4c83a69b7",
-            "Name": "Delphi 2007",
-            "URL": "https://portal.conceitho.com/files/Delphi2007.iso",
-            "available": true,
-            "label": "ignore",
-            "Description": "",
-            "created_at": "2013-",
-            "ModifiedAt": "2013-01-01T00:00:00",
-            "Size": 18,
-            "relative_path": "/FILES/PROGRAMASH/Delphi2007.iso",
-            "file_name": "Delphi2007.iso",
-            "category": "WEB"
+  "filesportal": [{
+  "_messages": [
+      {
+          "class": "success",
+          "code": "200",
+          "detailedMessage": "found 1 files",
+          "message": "files found"
+      }
+  ],
+  "files": [
+      {
+          "ID": "2462338f-276f-40b7-a6ec-02c4c83a69b7",
+          "Name": "Delphi 2007",
+          "URL": "https://portal.conceitho.com/files/Delphi2007.iso",
+          "available": true,
+          "label": "ignore",
+          "Description": "",
+          "created_at": "2013-",
+          "ModifiedAt": "2013-01-01T00:00:00",
+          "Size": 18,
+          "relative_path": "/FILES/PROGRAMASH/Delphi2007.iso",
+          "file_name": "Delphi2007.iso",
+          "category": "WEB"
 
-        }
-    ],
-    "hasNext": false
+      },
+      {
+        "ID": "6962338f-276f-40b7-a6ec-02c4c83a69b7",
+        "Name": "Delphi 2207",
+        "URL": "https://portal.conceitho.com/files/Delphi2007.iso",
+        "available": true,
+        "label": "ignore",
+        "Description": "",
+        "created_at": "2013-",
+        "ModifiedAt": "2013-01-01T00:00:00",
+        "Size": 18,
+        "relative_path": "/FILES/PROGRAMASH/Delphi2007.iso",
+        "file_name": "Delphi2007.iso",
+        "category": "WEB"
+
+    },
+    {
+      "ID": "2462338f-276f-40b7-a6ec-02c4c83a69b7",
+      "Name": "Delphi 2007",
+      "URL": "https://portal.conceitho.com/files/Delphi2007.iso",
+      "available": true,
+      "label": "ignore",
+      "Description": "",
+      "created_at": "2013-",
+      "ModifiedAt": "2013-01-01T00:00:00",
+      "Size": 18,
+      "relative_path": "/FILES/PROGRAMASH/Delphi2007.iso",
+      "file_name": "Delphi2007.iso",
+      "category": "WEB"
+    },
+    {
+      "ID": "6962338f-276f-40b7-a6ec-02c4c83a69b7",
+      "Name": "Delphi 2207",
+      "URL": "https://portal.conceitho.com/files/Delphi2007.iso",
+      "available": true,
+      "label": "ignore",
+      "Description": "",
+      "created_at": "2013-",
+      "ModifiedAt": "2013-01-01T00:00:00",
+      "Size": 18,
+      "relative_path": "/FILES/PROGRAMASH/Delphi2007.iso",
+      "file_name": "Delphi2007.iso",
+      "category": "WEB"
+    },
+    {
+      "ID": "3362338f-276f-40b7-a6ec-02c4c83a69b7",
+      "Name": "File 3",
+      "URL": "https://portal.conceitho.com/files/file3.iso",
+      "available": true,
+      "label": "ignore",
+      "Description": "",
+      "created_at": "2022-01-01T00:00:00",
+      "ModifiedAt": "2022-01-01T00:00:00",
+      "Size": 10,
+      "relative_path": "/FILES/file3.iso",
+      "file_name": "file3.iso",
+      "category": "APPLICATION"
+    },
+    {
+      "ID": "4462338f-276f-40b7-a6ec-02c4c83a69b7",
+      "Name": "File 4",
+      "URL": "https://portal.conceitho.com/files/file4.iso",
+      "available": true,
+      "label": "ignore",
+      "Description": "",
+      "created_at": "2022-01-02T00:00:00",
+      "ModifiedAt": "2022-01-02T00:00:00",
+      "Size": 20,
+      "relative_path": "/FILES/file4.iso",
+      "file_name": "file4.iso",
+      "category": "APPLICATION"
+    },
+    {
+      "ID": "2462338f-276f-40b7-a6ec-02c4c83a69b8",
+      "Name": "Java",
+      "URL": "https://portal.conceitho.com/files/java.iso",
+      "available": true,
+      "label": "ignore",
+      "Description": "",
+      "created_at": "2013-",
+      "ModifiedAt": "2013-01-01T00:00:00",
+      "Size": 20,
+      "relative_path": "/FILES/PROGRAMASH/java.iso",
+      "file_name": "java.iso",
+      "category": "WEB"
+  },
+  {
+      "ID": "2462338f-276f-40b7-a6ec-02c4c83a69b9",
+      "Name": "Python",
+      "URL": "https://portal.conceitho.com/files/python.iso",
+      "available": true,
+      "label": "ignore",
+      "Description": "",
+      "created_at": "2013-",
+      "ModifiedAt": "2013-01-01T00:00:00",
+      "Size": 22,
+      "relative_path": "/FILES/PROGRAMASH/python.iso",
+      "file_name": "python.iso",
+      "category": "WEB"
+  },
+  {
+    "ID": "3362338f-276f-40b7-a6ec-02c4c83a69b7",
+    "Name": "File 3",
+    "URL": "https://portal.conceitho.com/files/file3.iso",
+    "available": true,
+    "label": "ignore",
+    "Description": "",
+    "created_at": "2022-01-01T00:00:00",
+    "ModifiedAt": "2022-01-01T00:00:00",
+    "Size": 10,
+    "relative_path": "/FILES/file3.iso",
+    "file_name": "file3.iso",
+    "category": "APPLICATION"
+  },
+  {
+    "ID": "4462338f-276f-40b7-a6ec-02c4c83a69b7",
+    "Name": "File 4",
+    "URL": "https://portal.conceitho.com/files/file4.iso",
+    "available": true,
+    "label": "ignore",
+    "Description": "",
+    "created_at": "2022-01-02T00:00:00",
+    "ModifiedAt": "2022-01-02T00:00:00",
+    "Size": 20,
+    "relative_path": "/FILES/file4.iso",
+    "file_name": "file4.iso",
+    "category": "APPLICATION"
+  },
+  {
+    "ID": "2462338f-276f-40b7-a6ec-02c4c83a69b8",
+    "Name": "Java",
+    "URL": "https://portal.conceitho.com/files/java.iso",
+    "available": true,
+    "label": "ignore",
+    "Description": "",
+    "created_at": "2013-",
+    "ModifiedAt": "2013-01-01T00:00:00",
+    "Size": 20,
+    "relative_path": "/FILES/PROGRAMASH/java.iso",
+    "file_name": "java.iso",
+    "category": "WEB"
+},
+{
+    "ID": "2462338f-276f-40b7-a6ec-02c4c83a69b9",
+    "Name": "Python",
+    "URL": "https://portal.conceitho.com/files/python.iso",
+    "available": true,
+    "label": "ignore",
+    "Description": "",
+    "created_at": "2013-",
+    "ModifiedAt": "2013-01-01T00:00:00",
+    "Size": 22,
+    "relative_path": "/FILES/PROGRAMASH/python.iso",
+    "file_name": "python.iso",
+    "category": "WEB"
+},
+{
+  "ID": "a7c0556e-9556-4d06-8f6d-2a1f2e2a3d3d",
+  "Name": "Angular",
+  "URL": "https://portal.conceitho.com/files/angular.iso",
+  "available": true,
+  "label": "ignore",
+  "Description": "",
+  "created_at": "2013-",
+  "ModifiedAt": "2013-01-01T00:00:00",
+  "Size": 25,
+  "relative_path": "/FILES/PROGRAMASH/angular.iso",
+  "file_name": "angular.iso",
+  "category": "WEB"
+},
+{
+  "ID": "2b6e1bc6-1b33-4ce3-aecf-7eb0f9f5e5b5",
+  "Name": "React",
+  "URL": "https://portal.conceitho.com/files/react.iso",
+  "available": true,
+  "label": "ignore",
+  "Description": "",
+  "created_at": "2013-",
+  "ModifiedAt": "2013-01-01T00:00:00",
+  "Size": 28,
+  "relative_path": "/FILES/PROGRAMASH/react.iso",
+  "file_name": "react.iso",
+  "category": "WEB"
+},
+{
+  "ID": "b5dfae1d-c8d7-4c98-aadf-7ab1c0f8d7e3",
+  "Name": "Vue",
+  "URL": "https://portal.conceitho.com/files/vue.iso",
+  "available": true,
+  "label": "ignore",
+  "Description": "",
+  "created_at": "2013-",
+  "ModifiedAt": "2013-01-01T00:00:00",
+  "Size": 23,
+  "relative_path": "/FILES/PROGRAMASH/vue.iso",
+  "file_name": "vue.iso",
+  "category": "WEB"
+}
+  
+  ],
+  "hasNext": false
 }]
-    }
+  }
