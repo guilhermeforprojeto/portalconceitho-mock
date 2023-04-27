@@ -318,7 +318,77 @@
     "relative_path": "/FILES/file3.iso",
     "file_name": "file3.iso",
     "category": "APPLICATION"
-  }
+  },
+    {
+"ID": "2ff1f618-4a22-4d16-b1f4-cb52574a9c63",
+"Name": "Image 01",
+"URL": "https://portal.conceitho.com/files/image1.jpg",
+"available": true,
+"label": "featured",
+"Description": "Beautiful landscape picture",
+"created_at": "2023-04-25T10:30:00",
+"ModifiedAt": "2023-04-26T16:45:00",
+"Size": 256,
+"relative_path": "/FILES/image1.jpg",
+"file_name": "image1.jpg",
+"category": "IMAGE"
+},
+    {
+"ID": "86aae87d-0f9a-4e6e-85de-3a6b3fb6c94d",
+"Name": "Audio 01",
+"URL": "https://portal.conceitho.com/files/audio1.mp3",
+"available": true,
+"label": "music",
+"Description": "New song from my band",
+"created_at": "2023-04-25T14:00:00",
+"ModifiedAt": "2023-04-25T15:30:00",
+"Size": 512,
+"relative_path": "/FILES/audio1.mp3",
+"file_name": "audio1.mp3",
+"category": "AUDIO"
+},
+    {
+"ID": "f877d67e-81b5-4430-af36-1a0318bae287",
+"Name": "Video 01",
+"URL": "https://portal.conceitho.com/files/video1.mp4",
+"available": true,
+"label": "trailer",
+"Description": "Trailer of the new movie",
+"created_at": "2023-04-26T09:15:00",
+"ModifiedAt": "2023-04-26T10:00:00",
+"Size": 1024,
+"relative_path": "/FILES/video1.mp4",
+"file_name": "video1.mp4",
+"category": "VIDEO"
+},
+    {
+"ID": "4c4e28a5-1b17-4f79-8a58-8d59e5bfc9b1",
+"Name": "Document 01",
+"URL": "https://portal.conceitho.com/files/document1.pdf",
+"available": true,
+"label": "contract",
+"Description": "Contract for the new project",
+"created_at": "2023-04-26T14:30:00",
+"ModifiedAt": "2023-04-26T15:15:00",
+"Size": 2048,
+"relative_path": "/FILES/document1.pdf",
+"file_name": "document1.pdf",
+"category": "DOCUMENT"
+},
+    {
+"ID": "4c4e28a5-1b17-4f79-8a58-8d5000bfc9b1",
+"Name": "Document 101",
+"URL": "https://portal.conceitho.com/files/document1.pdf",
+"available": true,
+"label": "contract",
+"Description": "Contract for the new project",
+"created_at": "2023-04-26T14:30:00",
+"ModifiedAt": "2023-04-26T15:15:00",
+"Size": 2048,
+"relative_path": "/FILES/document1.pdf",
+"file_name": "document1.pdf",
+"category": "DOCUMENT"
+}
                  
                  
   
