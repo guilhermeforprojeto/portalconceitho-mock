@@ -37,7 +37,6 @@
         "relative_path": "/FILES/PROGRAMASH/Delphi2007.iso",
         "file_name": "Delphi2007.iso",
         "category": "WEB"
-
     },
     {
       "ID": "2460338f-276f-40b7-a6ec-02c4c83a69b7",
@@ -374,25 +373,7 @@
 "relative_path": "/FILES/document1.pdf",
 "file_name": "document1.pdf",
 "category": "DOCUMENT"
-},
-    {
-"ID": "4c4e28a5-1b17-4f79-8a58-8d5000bfc9b1",
-"Name": "Document 101",
-"URL": "https://portal.conceitho.com/files/document1.pdf",
-"available": true,
-"label": "contract",
-"Description": "Contract for the new project",
-"created_at": "2023-04-26T14:30:00",
-"ModifiedAt": "2023-04-26T15:15:00",
-"Size": 2048,
-"relative_path": "/FILES/document1.pdf",
-"file_name": "document1.pdf",
-"category": "DOCUMENT"
 }
-                 
-                 
-  
-  
   ],
   "hasNext": false
 }]
